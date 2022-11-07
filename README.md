@@ -6,4 +6,4 @@
 
 A contest open to all students at the univeristy across approximately a week. Read the project brief [here](mini_problems.pdf).
 
-May 2021
+May 2022
